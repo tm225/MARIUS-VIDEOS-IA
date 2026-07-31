@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PhotoAnime" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1B1B2F</item>
+        <item name="colorPrimaryDark">#0F0F1A</item>
+        <item name="colorAccent">#E94560</item>
+        <item name="android:windowBackground">#0F0F1A</item>
+    </style>
+</resources>
